@@ -2,19 +2,48 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: x-large;
 }
-
-/* main */
 .main{
     background-image: url(./image/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
 }
+/* .container-fluid{
+    font-size: xx-large;
+} */
+.navbar-brand{
+    width: 70px;
+    height: 70px;
+}
+.fs-4{
+    margin-top: 30px;
+}
+.mb-lg-0 {
+    padding-top: 20px;
+}
+/* .img-fluid{
+    height: 600px;
+} */
+.containers{
+   margin-left: 50px;
+   margin-top: 20px;
+}
+ .mb-lg-0{
+    text-align: center;
+    color: blue;
+    margin: 10px;
+ }
+ .table{
+    margin-top: 30px;
+    margin-left: 30px;
+ }
 
 footer{
     background-color:whitesmoke;
+    padding: 30px;
+    margin-top: 20px;
+    
 }
 
